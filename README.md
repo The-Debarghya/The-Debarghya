@@ -11,4 +11,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=The-Debarghya)
 
 
-Twitter(https://twitter.com/DebarghyaMaitra)
+[1.1]: http://i.imgur.com/tXSoThF.png
