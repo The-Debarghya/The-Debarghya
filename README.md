@@ -9,3 +9,6 @@
 - ⚡ I'm also proficient in Flask, Node, Ruby for backend development
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=The-Debarghya)
+
+
+https://twitter.com/DebarghyaMaitra
