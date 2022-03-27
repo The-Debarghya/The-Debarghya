@@ -8,9 +8,15 @@
 - 📫 How to reach me: debarghya4444@gmail.com
 - ⚡ I'm also proficient in Flask, Node, Ruby for backend development
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=The-Debarghya)
+
 [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 
 [1]: http://www.twitter.com/DebarghyaMaitra
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=The-Debarghya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Debarghya&layout=compact)](https://github.com/The-Debarghya)
+
+https://ctflearn.com/user/Heisenberg8622
