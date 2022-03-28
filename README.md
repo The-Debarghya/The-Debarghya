@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a undergrad CSE student at Jadavpur University, Kolkata.
+<p align="centre">I'm a undergrad CSE student at Jadavpur University, Kolkata.</p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Tanmoy741127"></div><br>
 
