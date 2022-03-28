@@ -1,7 +1,7 @@
 ## Hi there 👋
-<p align="centre">I'm a undergrad CSE student at Jadavpur University, Kolkata.</p>
+<p align="center">I'm a undergrad CSE student at Jadavpur University, Kolkata.</p>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Tanmoy741127"></div><br>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
 - 🔭 I’m currently working on Cyber Defense & Malware Analysis
 - 🌱 I’m currently learning Blockchains, Low level developments
