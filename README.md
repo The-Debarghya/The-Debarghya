@@ -3,8 +3,8 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
-- 🔭 I’m currently working on Cyber Defense & Malware Analysis
-- 🌱 I’m currently learning Blockchains, Low level developments
+- 🔭 I’m currently working on Cyber Defense, Malware Analysis & DevOps
+- 🌱 I’m currently learning Docker, Kubernetes, Ansible, CI/CD, etc.
 - 👯 I’m looking to collaborate on CTFs, developing new tools, etc.
 - 💬 Ask me about "Anything related to cybersecurity, I'll try to help!!"
 - 📫 How to reach me: debarghya4444@gmail.com
