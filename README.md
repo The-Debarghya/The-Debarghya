@@ -3,12 +3,12 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
-- 🔭 I’m currently working on Cyber Defense, Malware Analysis & DevOps
-- 🌱 I’m currently learning Docker, Kubernetes, Ansible, CI/CD, etc.
+- 🔭 I’m currently working on Backend Development & DevOps
+- 🌱 I’m currently learning Docker, Electron, Nextjs, etc.
 - 👯 I’m looking to collaborate on CTFs, developing new tools, etc.
 - 💬 Ask me about "Anything related to cybersecurity, I'll try to help!!"
 - 📫 How to reach me: debarghya4444@gmail.com
-- ⚡ I'm also proficient in Flask, Node, Ruby for backend development
+- ⚡ I'm also proficient in Golang & Ruby
 
 <br>
 
