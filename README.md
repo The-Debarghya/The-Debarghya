@@ -17,7 +17,7 @@
 [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-
+<script src="https://tryhackme.com/badge/581057"></script>
 [1]: http://www.twitter.com/DebarghyaMaitra
 [CTFlearn](https://ctflearn.com/user/Heisenberg8622)
 [Tryhackme](https://tryhackme.com/p/Debarghya.Maitra)
