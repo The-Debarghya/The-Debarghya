@@ -15,10 +15,12 @@
 ### Some of my social profiles:
 
 [![alt text][1.1]][1]
+[![alt text][1.2]][2]
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-<script src="https://tryhackme.com/badge/581057"></script>
+[1.2]: https://tryhackme-badges.s3.amazonaws.com/Debarghya.Maitra.png
 [1]: http://www.twitter.com/DebarghyaMaitra
+[2]: https://tryhackme.com/p/Debarghya.Maitra
 [CTFlearn](https://ctflearn.com/user/Heisenberg8622)
 [Tryhackme](https://tryhackme.com/p/Debarghya.Maitra)
 [Hackthebox](https://app.hackthebox.com/users/699384)
