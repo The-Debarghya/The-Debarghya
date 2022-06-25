@@ -13,7 +13,7 @@
 <br>
 
 ### Some of my social profiles:
-<div align="center">"
+<div align="center">
 [![alt text][1.1]][1]
 [![alt text][1.2]][2] <a href="https://www.hackerrank.com/debarghya4444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debarghya4444" height="50" width="40" /></a></div>
 
