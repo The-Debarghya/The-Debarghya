@@ -24,7 +24,7 @@
 
 [1]: http://www.twitter.com/DebarghyaMaitra
 [2]: https://tryhackme.com/p/Debarghya.Maitra
-[3]: www.linkedin.com/in/debarghya-maitra-081151243
+[3]: https://linkedin.com/in/debarghya-maitra-081151243
 
 [CTFlearn](https://ctflearn.com/user/Heisenberg8622)
 [Hackthebox](https://app.hackthebox.com/users/699384)
