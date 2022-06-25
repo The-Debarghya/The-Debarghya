@@ -13,9 +13,9 @@
 <br>
 
 ### Some of my social profiles:
-
+<div align="center">"
 [![alt text][1.1]][1]
-[![alt text][1.2]][2] <a href="https://www.hackerrank.com/debarghya4444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debarghya4444" height="50" width="40" /></a>
+[![alt text][1.2]][2] <a href="https://www.hackerrank.com/debarghya4444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debarghya4444" height="50" width="40" /></a></div>
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1.2]: https://tryhackme-badges.s3.amazonaws.com/Debarghya.Maitra.png
