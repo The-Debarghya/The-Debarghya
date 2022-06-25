@@ -16,13 +16,13 @@
 
 [![alt text][1.1]][1]
 [![alt text][1.2]][2]
-[![alt text][1.3]][3]
+<a href="https://www.hackerrank.com/manaspb2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manaspb2405" height="30" width="40" /></a>
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1.2]: https://tryhackme-badges.s3.amazonaws.com/Debarghya.Maitra.png
 [1]: http://www.twitter.com/DebarghyaMaitra
 [2]: https://tryhackme.com/p/Debarghya.Maitra
-[3]: <a href="https://www.hackerrank.com/manaspb2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manaspb2405" height="30" width="40" /></a>
+
 [CTFlearn](https://ctflearn.com/user/Heisenberg8622)
 [Hackthebox](https://app.hackthebox.com/users/699384)
 [PicoCTF](https://play.picoctf.org/users/Heisenberg8622)
