@@ -16,7 +16,7 @@
 
 [![alt text][1.1]][1]
 [![alt text][1.3]][3]
-[![alt text][1.2]][2] <a href="https://www.hackerrank.com/debarghya4444" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debarghya4444" height="50" width="40" /></a>
+[![alt text][1.2]][2] <a href="https://www.hackerrank.com/debarghya4444" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="debarghya4444"></a>
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [1.2]: https://tryhackme-badges.s3.amazonaws.com/Debarghya.Maitra.png
