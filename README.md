@@ -31,6 +31,6 @@
 [PicoCTF](https://play.picoctf.org/users/Heisenberg8622)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=The-Debarghya&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Debarghya&layout=compact)](https://github.com/The-Debarghya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Debarghya&layout=compact&exclude_repo=Tryhackme_Writeups)](https://github.com/The-Debarghya)
 
 
