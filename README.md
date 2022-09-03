@@ -26,7 +26,7 @@
 [1.3]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [1.4]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 [1.5]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black
-[1.6]: https://picoctf.org/img/logos/picoctf-logo-horizontal-white.svg
+[1.6]: https://picoctf.org/img/logos/picoctf-logo-horizontal-white.svg =250x250
 
 [1]: http://www.twitter.com/DebarghyaMaitra
 [2]: https://tryhackme.com/p/Debarghya.Maitra
