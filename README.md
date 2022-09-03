@@ -29,7 +29,7 @@
 [1.4]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 [1.5]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black
 [1.6]: https://picoctf.org/favicon.ico
-[1.7]: https://ctflearn.com/static/img/favicon.ico
+[1.7]: https://ctflearn.com/static/img/logo.png
 [1.8]: https://www.hackthebox.com/images/landingv3/favicon.png
 
 [1]: http://www.twitter.com/DebarghyaMaitra
