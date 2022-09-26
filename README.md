@@ -42,8 +42,8 @@
 [8]: https://app.hackthebox.com/users/699384
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=The-Debarghya&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Debarghya&layout=compact)](https://github.com/The-Debarghya)
+![Github stats](https://github-readme-stats-q6me.vercel.app/api?username=The-Debarghya&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-q6me.vercel.app/api/top-langs/?username=The-Debarghya&layout=compact)](https://github.com/The-Debarghya)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Debarghya)
 
 
