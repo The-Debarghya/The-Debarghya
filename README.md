@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 <p align="center">I'm an undergrad CSE student at Jadavpur University, Kolkata.</p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
