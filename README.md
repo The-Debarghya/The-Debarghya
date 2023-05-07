@@ -22,24 +22,27 @@
 [![alt text][1.6]][6]
 [![alt text][1.7]][7]
 [![alt text][1.8]][8]
+[![alt text][1.9]][9]
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [1.2]: https://tryhackme-badges.s3.amazonaws.com/Debarghya.Maitra.png
 [1.3]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [1.4]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 [1.5]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black
-[1.6]: https://picoctf.org/favicon.ico
+[1.6]: https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black
 [1.7]: https://ctflearn.com/static/img/logo.png
 [1.8]: https://www.hackthebox.com/images/landingv3/favicon.png
+[1.9]: https://picoctf.org/favicon.ico
 
 [1]: http://www.twitter.com/DebarghyaMaitra
 [2]: https://tryhackme.com/p/Debarghya.Maitra
 [3]: https://linkedin.com/in/debarghya-maitra-081151243
 [4]: https://hub.docker.com/u/heisenberg8622
 [5]: https://www.hackerrank.com/debarghya4444
-[6]: https://play.picoctf.org/users/Heisenberg8622
+[6]: https://gitlab.com/The-Debarghya
 [7]: https://ctflearn.com/user/Heisenberg8622
 [8]: https://app.hackthebox.com/users/699384
+[9]: https://play.picoctf.org/users/Heisenberg8622
 
 
 ![Github stats](https://github-readme-stats-q6me.vercel.app/api?username=The-Debarghya&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&locale=en)
