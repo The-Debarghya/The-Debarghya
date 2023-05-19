@@ -49,4 +49,4 @@
 [![Top Langs](https://github-readme-stats-q6me.vercel.app/api/top-langs/?username=The-Debarghya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/The-Debarghya)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Debarghya&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
-
+![TechStack](https://skillicons.dev/icons?i=atom,bash,c,cpp,css,docker,electron,express,git,github,go,gradle,graphql,html,java,js,jenkins,kubernetes,latex,linux,markdown,maven,mongo,mysql,next,nodejs,openstack,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,ansible,flask)
