@@ -51,4 +51,4 @@
 
 ### The Tech Stack I'm familiar(Used at least once/twice) with:(Not that I'm expert on using all of them)
 
-![TechStack](https://skillicons.dev/icons?i=atom,bash,c,cpp,css,docker,electron,express,git,github,go,gradle,graphql,html,java,js,jenkins,kubernetes,latex,linux,markdown,maven,mongo,mysql,next,nodejs,openstack,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,ansible,flask)
+![FullTechStack](https://skillicons.dev/icons?i=atom,bash,c,cpp,css,docker,electron,express,git,github,go,gradle,graphql,html,java,js,jenkins,kubernetes,latex,linux,markdown,maven,mongo,mysql,next,nodejs,openstack,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,ansible,flask)
