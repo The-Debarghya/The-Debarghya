@@ -4,7 +4,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
 - 🔭 I’m currently working on Backend Development & DevOps
-- 🌱 I’m currently learning Docker, Kubernetes, Express.js, etc.
+- 🌱 I’m currently learning Kubernetes, Jenkins, IaC, etc.
 - 👯 I’m looking to collaborate on CTFs, developing new tools, etc.
 - 💬 Ask me about "Anything related to cybersecurity, I'll try to help!!"
 - 📫 How to reach me: debarghya4444@gmail.com
@@ -49,6 +49,6 @@
 [![Top Langs](https://github-readme-stats-q6me.vercel.app/api/top-langs/?username=The-Debarghya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/The-Debarghya)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Debarghya&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
-### The Tech Stack I'm familiar(Used at least once/twice) with:(Not that I'm expert on using all of them)
+### The Technologies I'm familiar(Used at least once/twice) with:(Not that I'm expert on using all of them)
 
 ![FullTechStack](https://skillicons.dev/icons?i=atom,bash,c,cpp,css,docker,electron,express,git,github,go,gradle,graphql,html,java,js,jenkins,kubernetes,latex,linux,markdown,maven,mongo,mysql,next,nodejs,openstack,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,ansible,flask)
