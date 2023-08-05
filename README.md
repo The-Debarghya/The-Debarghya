@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on CTFs, developing new tools, etc.
 - 💬 Ask me about "Anything related to cybersecurity, I'll try to help!!"
 - 📫 How to reach me: debarghya4444@gmail.com
-- ⚡ I'm also proficient in Golang & Ruby
+- ⚡ I'm a Certified Kubernetes Administrator
 
 <br>
 
