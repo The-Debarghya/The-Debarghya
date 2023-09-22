@@ -1,4 +1,4 @@
-## Hi there ![wave](./wave.gif)
+<h1> Hi there </h1><img src="./wave.gif" height="25px">
 <p align="center">I'm an undergrad CSE student at Jadavpur University, Kolkata.</p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
