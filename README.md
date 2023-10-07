@@ -1,12 +1,12 @@
-<h1> Hi there <img src="./wave.gif" height="25px"></h1>
-<p align="center">I'm an undergrad CSE student at Jadavpur University, Kolkata.</p>
+<h1> Hi there 👋🏻</h1>
+<p align="center">I'm an undergrad CSE student at somewhere in Kolkata.</p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
-- 🔭 I’m currently working on Backend Development & DevOps
-- 🌱 I’m currently learning Kubernetes, Jenkins, IaC, etc.
-- 👯 I’m looking to collaborate on CTFs, developing new tools, etc.
-- 💬 Ask me about "Anything related to cybersecurity, I'll try to help!!"
+- 🔭 I’m currently working on Swiftwave.
+- 🌱 I’m currently learning nothing.
+- 👯 I’m looking for jobs.
+- 💬 Ask me about "How I'm still keeping up with the system!"
 - 📫 How to reach me: debarghya4444@gmail.com
 - ⚡ I'm a Certified Kubernetes Administrator
 
