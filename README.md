@@ -3,7 +3,7 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
-- 🔭 I’m currently working on Swiftwave.
+- 🔭 I’m currently working on personal development.
 - 🌱 I’m currently learning nothing.
 - 👯 I’m looking for jobs.
 - 💬 Ask me about "How I'm still keeping up with the system!"
