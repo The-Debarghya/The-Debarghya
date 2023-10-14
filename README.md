@@ -3,10 +3,10 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
-- 🔭 I’m currently working on personal development.
-- 🌱 I’m currently learning nothing.
+- 🔭 I’m currently working on Swiftwave and Lokoguard(still in progress).
+- 🌱 I’m currently learning kustomize, Helm, terraform.
 - 👯 I’m looking for jobs.
-- 💬 Ask me about "How I'm still keeping up with the system!"
+- 💬 Ask me about cybersecurity and devops stuff!
 - 📫 How to reach me: debarghya4444@gmail.com
 - ⚡ I'm a Certified Kubernetes Administrator
 
