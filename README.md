@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Swiftwave and Lokoguard(still in progress).
 - 🌱 I’m currently learning kustomize, Helm, terraform.
-- 👯 I’m looking for jobs.
+- 👯 I’m looking to contribute to OSS.
 - 💬 Ask me about cybersecurity and devops stuff!
 - 📫 How to reach me: debarghya4444@gmail.com
 - ⚡ I'm a Certified Kubernetes Administrator
