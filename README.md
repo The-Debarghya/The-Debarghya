@@ -34,7 +34,7 @@
 [1.8]: https://www.hackthebox.com/images/landingv3/favicon.png
 [1.9]: https://picoctf.org/favicon.ico
 
-[1]: http://www.twitter.com/DebarghyaMaitra
+[1]: http://www.twitter.com/_debarghya4
 [2]: https://tryhackme.com/p/Debarghya.Maitra
 [3]: https://linkedin.com/in/debarghya-maitra-081151243
 [4]: https://hub.docker.com/u/heisenberg8622
