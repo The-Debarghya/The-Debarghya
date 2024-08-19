@@ -1,10 +1,10 @@
 <h1> Hi there 👋🏻</h1>
-<p align="center">I'm an undergrad CSE student at somewhere in Kolkata.</p>
+<p align="center">I'm an undergrad CSE grad from some college in Kolkata.</p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
-- 🔭 I’m currently working on Swiftwave and Lokoguard(still in progress).
-- 🌱 I’m currently learning kustomize, Helm, terraform.
+- 🔭 I’m currently working under the Department of Telecom of Govt. of India.
+- 🌱 I’m currently learning SOC operations, intrusion detection using zeek, SIEM.
 - 👯 I’m looking to contribute to OSS.
 - 💬 Ask me about cybersecurity and devops stuff!
 - 📫 How to reach me: debarghya4444@gmail.com
