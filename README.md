@@ -9,6 +9,7 @@
 - 💬 Ask me about cybersecurity and devops stuff!
 - 📫 How to reach me: debarghya4444@gmail.com
 - ⚡ I'm a Certified Kubernetes Administrator
+- 💖 My hobbies include: Watching classic movies, reading novels(strictly fiction), sketching(strictly ink) and rarely painting.
 
 <br>
 
