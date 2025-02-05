@@ -26,7 +26,7 @@
 [![alt text][1.9]][9]
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[1.2]: 
+[1.2]: https://tryhackme-badges.s3.amazonaws.com/Debarghya.Maitra.png
 [1.3]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [1.4]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 [1.5]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black
