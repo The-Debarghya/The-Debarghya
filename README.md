@@ -26,7 +26,7 @@
 [![alt text][1.9]][9]
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[1.2]: https://tryhackme-badges.s3.amazonaws.com/Debarghya.Maitra.png
+[1.2]: 
 [1.3]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [1.4]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 [1.5]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black
@@ -47,9 +47,9 @@
 
 
 ![Github stats](https://github-readme-stats-q6me.vercel.app/api?username=The-Debarghya&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&locale=en)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Debarghya&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Streak Stats](https://github-readme-streak-stats-alpha-eight.vercel.app?user=The-Debarghya&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Debarghya&layout=donut-vertical&bg_color=0D1117)](https://github.com/The-Debarghya)
 
-### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
+### The Technologies I'm Familiar With(used at least once/twice):(not that I'm expert on using all of them)
 
 ![FullTechStack](https://skillicons.dev/icons?i=atom,bash,c,cpp,css,docker,electron,express,git,github,go,gradle,graphql,html,java,js,jenkins,kubernetes,latex,linux,markdown,maven,mongo,mysql,next,nodejs,openstack,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,ansible,flask)
