@@ -32,8 +32,8 @@
 [1.5]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black
 [1.6]: https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black
 [1.7]: https://raw.githubusercontent.com/The-Debarghya/The-Debarghya/main/logo.png
-[1.8]: https://www.hackthebox.com/images/landingv3/favicon.png
-[1.9]: https://picoctf.org/favicon.ico
+[1.8]: https://www.hackthebox.com/hubfs/Cube_favicon.png
+[1.9]: https://learn.cylabacademy.org/branding/logo.svg
 
 [1]: http://www.twitter.com/_debarghya4
 [2]: https://tryhackme.com/p/Debarghya.Maitra
