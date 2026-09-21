@@ -45,7 +45,7 @@
 
 ![Github stats](https://github-readme-stats-q6me.vercel.app/api?username=The-Debarghya&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&locale=en)
 ![Streak Stats](https://github-readme-streak-stats-alpha-eight.vercel.app?user=The-Debarghya&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-[![Top Langs](https://github-readme-stats-q6me.vercel.app/api/top-langs/?username=The-Debarghya&layout=donut-vertical&bg_color=0D1117)](https://github.com/The-Debarghya)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=The-Debarghya&layout=donut-vertical&bg_color=0D1117)](https://github.com/The-Debarghya)
 
 ### The Technologies I'm Familiar With(used at least once/twice):(not that I'm expert on using all of them)
 
