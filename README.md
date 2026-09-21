@@ -1,10 +1,10 @@
 <h1> Hi there 👋🏻</h1>
-<p align="center">I'm a CSE graduate from some college in Kolkata.</p>
+<p align="center">I'm currently studying MSc in Informatik at the Leibniz Universität Hannover.</p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=The-Debarghya"></div><br>
 
-- 🔭 I’m currently working under the Department of Telecom of the Govt. of India.
-- 🌱 I’m currently learning SOC operations, intrusion detection using zeek, SIEM.
+- 🔭 I previously worked under the Department of Telecom of the Govt. of India.
+- 🌱 I’m currently learning MLOps, distributed systems and advanced networking.
 - 👯 I’m looking to contribute to OSS.
 - 💬 Ask me about cybersecurity and devops stuff!
 - 📫 How to reach me: debarghya4444@gmail.com
